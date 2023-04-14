@@ -1,4 +1,4 @@
-package com.zhou.pojo;
+package com.zhouzhou.pojo;
 
 public class Users {
     private String name;

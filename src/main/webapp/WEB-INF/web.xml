@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>ServletDemo02</servlet-name>
-    <servlet-class>com.zhou.ServletDemo02</servlet-class>
+    <servlet-class>com.zhouzhou.servlet.ServletDemo02</servlet-class>
   </servlet>
   <servlet-mapping>
   <servlet-name>ServletDemo02</servlet-name>

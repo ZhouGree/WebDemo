@@ -5,7 +5,7 @@
 <!-- 配置文件的根元素 -->
 <configuration>
     <typeAliases>
-        <package name="com.zhou.pojo"/>
+        <package name="com.zhouzhou.pojo"/>
     </typeAliases>
     <!-- 属性：定义配置外在化 -->
    <!-- <properties></properties>-->
@@ -43,6 +43,6 @@
     <databaseIdProvider type=""></databaseIdProvider>
     <!-- 映射器：指定映射文件或者映射类 -->
     <mappers>
-        <package name="com.zhou.pojo"/>
+        <package name="com.zhouzhou.pojo"/>
     </mappers>
 </configuration>

@@ -1,4 +1,4 @@
-package com.zhou.mapper;
+package com.zhouzhou.mapper;
 
 public interface UserMapper {
 }
